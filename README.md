@@ -24,10 +24,8 @@
 ```txt
 +--------------------------------------------------------------+
 | USER     MarkDevs20                                          |
-| OS       Fedora Linux                                        |
-| SHELL    bash                                                |
-| EDITOR   VS Code                                             |
-| FOCUS    frontend, backend, cloud, development tools          |
+| OS       Fedora Linux                                        |               
+| FOCUS    frontend, backend, cloud, development tools         |
 +--------------------------------------------------------------+
 ```
 
