@@ -35,7 +35,7 @@
 | --- | --- |
 | `frontend` | Angular, TypeScript, JavaScript, RxJS, SCSS, Figma |
 | `backend` | Node.js, Express.js, REST API, CRUD, PostgreSQL, SQL, RBAC, feature-level permissions |
-| `cloud` | Microsoft Azure, Railway, Vercel, Supabase, Firebase, domain/DNS configuration, SPF, DKIM, DMARC |
+| `cloud` | Microsoft Azure, Railway, Vercel, Supabase, Firebase, AWS |
 | `tools` | Git, GitHub, Chrome DevTools, curl, VS Code, Linux/Fedora, Jira, Scrum |
 
 ## ./current
