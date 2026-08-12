@@ -34,9 +34,9 @@
 | area | skills |
 | --- | --- |
 | `frontend` | Angular, TypeScript, JavaScript, RxJS, SCSS, Figma |
-| `backend` | Node.js, Express.js, REST API, CRUD, PostgreSQL, SQL, RBAC, feature-level permissions |
-| `cloud` | Microsoft Azure, Railway, Vercel, Supabase, Firebase, AWS |
-| `tools` | Git, GitHub, Postman, curl, Fedora security, Jira, Scrum |
+| `backend` | Node.js, Express.js, REST API |
+| `cloud` | Microsoft Azure, Cloudflare, Railway, Vercel, Supabase, AWS |
+| `tools` | Git, GitHub, Postman, curl, Fedora security, Jira |
 
 ## ./current
 
