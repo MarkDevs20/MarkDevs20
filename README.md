@@ -42,7 +42,5 @@
 
 ```sh
 $ status
-building frontend-heavy systems
-connecting APIs and databases
-deploying projects with cloud tools
+01101000 01101111 01110100 01100100 01101111 01100111 00100000 01101110 01100001
 ```
