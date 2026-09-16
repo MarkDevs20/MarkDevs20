@@ -33,7 +33,7 @@
 
 <br><br>
 
-<a href="https://www.markanthonydelacruz.dev/">
+<a href="https://www.markanthonydelacruz.dev/" target='blank'>
   <img
     src="https://img.shields.io/badge/%24_%20.%2Flaunch--portfolio-E21D38?style=for-the-badge&logo=firefox&logoColor=white"
     alt="Launch Portfolio"
