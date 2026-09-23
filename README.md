@@ -59,7 +59,7 @@
 | --- | --- |
 | `frontend` | Angular, TypeScript, JavaScript, RxJS, SCSS, Figma |
 | `backend` | Node.js, Express.js, REST API |
-| `cloud` | Microsoft Azure, Cloudflare, Railway, Vercel, Supabase, AWS |
+| `cloud` | AWS lambda, AWS lightsail, AWS eventbridge, Microsoft Azure, Cloudflare, Railway, Supabase |
 | `tools` | Git, GitHub, Postman, curl, Fedora security, Jira |
 
 ## ./current
